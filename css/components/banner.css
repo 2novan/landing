@@ -1,0 +1,41 @@
+.container {
+  height: 100px;
+  width: 100%;
+  margin: auto;
+  /* margin: 0 auto; */
+}
+
+.bruce {
+  background-image: url("https://resize-parismatch.lanmedia.fr/r/625,417,forcex,center-middle/img/var/news/storage/images/paris-match/actu/faits-divers/xavier-dupont-de-ligonnes-une-nouvelle-image-glacante-du-pere-avec-ses-enfants-1734264/28582484-1-fre-FR/Xavier-Dupont-de-Ligonnes-une-nouvelle-image-glacante-du-pere-avec-ses-enfants.jpg");
+  color: white;
+  background-position: center;
+  background-size: cover;
+  padding: 200px 50px;
+  
+  /* text-align: left;  margin-bottom: 10px auto; */
+  /* margin-left: 16px; */
+}
+
+.bruce a {
+  border: 1px solid #1EDD88;
+  color: white;
+  background-color: #1EDD88;
+  border-radius: 50px;
+  padding: 24px 36px;
+  display: inline-block;
+  text-align: left;
+}
+
+.bruce a:hover {
+  border: 1px solid #126e45;
+  opacity: 0.9;
+  background: #126e45;
+}
+
+.bruce p h1 a {
+  opacity: .7;
+}
+
+.bruce img {
+  width: 100%;
+}

@@ -1,0 +1,35 @@
+.cards {
+  display: flex;
+  justify-content: space-evenly;
+  text-align: center;
+  margin-top: 16px;
+  font-size: 16px;
+}
+
+.cards img {
+  height: 200px;
+  width: 200px;
+}
+
+.card {
+  border-radius: 3px;
+  width: 200px;
+  padding: 20px;
+  border: 2px solid rgb(233, 223, 223);
+  margin-right: 10px;
+  text-align: center;
+  box-shadow: 0 0 5px rgb(230,230,230);
+  background: blanchedalmond;
+}
+
+.card h1 {
+  font-size: 16px;
+}
+
+.card p {
+  opacity: .7;
+}
+
+.titre {
+  text-align: center;
+}
